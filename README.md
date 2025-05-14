@@ -1,7 +1,24 @@
-1.perform the data cleaning and data ingestion/manipulation
+Retail Customer Analytics
 
-2.performed the eda process using libraries numpy,pandas,matplotlib,seaborn for the better output from the data.
+Tools: Python (Pandas, NumPy), Jupyter Notebook
 
-3.imporved customers experience by identifying the potentional customers across different states,occupation,gender and age groups
+Visualization: Matplotlib, Seaborn
 
+Key Steps:
+Data Cleaning & Prep
 
+Handled missing values, outliers, and formatted data for analysis.
+
+Exploratory Analysis (EDA)
+
+Analyzed trends across states, age groups, gender, and occupation.
+
+Visualized patterns for actionable insights.
+
+Customer Segmentation
+
+Identified high-potential customers for targeted marketing.
+
+Improved engagement strategies based on demographics.
+
+Impact: Better targeting, personalized offers, and increased ROI.
